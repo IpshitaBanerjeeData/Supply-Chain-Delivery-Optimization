@@ -1,6 +1,6 @@
 # Supply Chain On-Time Delivery & Revenue Risk Analysis
 
-![Supply Chain Delivery Rate Analysis Dashboard](dashboard/dashboard_preview.png)
+![Supply Chain Delivery Rate Analysis Dashboard](dashboard/Supply_Chain.png)
 
 ## Project Overview
 An end-to-end operational analytics project analyzing **16,895 global supply chain shipments** to uncover fulfillment bottlenecks, evaluate shipping tier reliability, and quantify revenue exposed to late deliveries.
@@ -33,5 +33,5 @@ An end-to-end operational analytics project analyzing **16,895 global supply cha
 ## Repository Structure
 * `notebooks/supply_chain_eda.ipynb`: Data cleaning, date standardization, feature engineering, and exploratory analysis in Python.
 * `dashboard/Supply_Chain_Dashboard.pbix`: Interactive Power BI report featuring custom DAX measures and dynamic Category/Market slicers.
-* `dashboard/dashboard_preview.png`: High-resolution preview of the final dashboard.
-* `data/`: Dataset documentation and preprocessed data notes.
+* `dashboard/Supply_Chain.png`: High-resolution preview of the final dashboard.
+* `data/cleaned_supply_chain_data.csv`: Dataset documentation and preprocessed data notes.
